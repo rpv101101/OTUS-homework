@@ -8,6 +8,7 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_03_10-PC0.png)
 
 Сколько интерфейсов FastEthernet имеется на коммутаторе 2960?
+
 24, от
 
 interface FastEthernet0/1
