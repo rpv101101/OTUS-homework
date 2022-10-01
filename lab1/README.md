@@ -8,7 +8,7 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_03_10-PC0.png)
 
-Сколько интерфейсов FastEthernet имеется на коммутаторе 2960?
+⦁ Сколько интерфейсов FastEthernet имеется на коммутаторе 2960?
 
 24, от
 
@@ -18,7 +18,7 @@ interface FastEthernet0/1
 
 interface FastEthernet0/24
 
-Сколько интерфейсов Gigabit Ethernet имеется на коммутаторе 2960?
+⦁ Сколько интерфейсов Gigabit Ethernet имеется на коммутаторе 2960?
 
 Два, 
 
@@ -26,7 +26,7 @@ interface GigabitEthernet0/1
 
 interface GigabitEthernet0/2
 
-Каков диапазон значений, отображаемых в vty-линиях?
+⦁ Каков диапазон значений, отображаемых в vty-линиях?
 
 От 0 до 4 и от 5 до 15.
 
