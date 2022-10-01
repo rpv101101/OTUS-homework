@@ -1,4 +1,5 @@
 # Лабораторная работа №1
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2018_50_04-Lab_Basic_Switch_Configuration-1801-36784d.docx%20-%20WordPad.png)
 ### Часть 1. Проверка конфигурации коммутатора по умолчанию
 
 Входим в привилегированный режим с помощью команды enable (en) и изучаем текущий файл running configuration:
