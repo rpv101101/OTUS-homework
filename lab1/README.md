@@ -13,3 +13,5 @@
 Входим в привилегированный режим с помощью команды enable (en) и изучаем текущий файл running configuration:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_02_41-PC0.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_03_10-PC0.png)
