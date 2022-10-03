@@ -80,6 +80,11 @@ S1# dir flash:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_13_38-PC0.png)
 
+Проверка через Telnet:
+
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-03%2018_46_20-PC0.png)
+
+Схема сети в Cisco Packet Tracer: 
+
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_37_11-Cisco%20Packet%20Tracer%20-%20C__Users_user_Documents_OTUS_project1_ping.pkt.png)
