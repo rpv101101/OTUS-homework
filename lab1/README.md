@@ -37,6 +37,7 @@ interface GigabitEthernet0/2
 Задание имени коммутатора: 
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_17_15-PC0.png)
+
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_49_41-PC0.png)
 
 
