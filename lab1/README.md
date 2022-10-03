@@ -34,7 +34,7 @@ interface GigabitEthernet0/2
 ##### ⦁	Настройка базовых параметров коммутатора.
 
 
-Задание имени коммутатора: 
+Задание имени коммутатора, пароля для входа, MOTD и ip-адреса: 
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_17_15-PC0.png)
 
