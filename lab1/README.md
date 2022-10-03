@@ -50,7 +50,7 @@ interface GigabitEthernet0/2
 
 ⦁	Протестируйте возможности удаленного управления с помощью Telnet.
 
-Проверьте параметры VLAN 1.
+Параметры VLAN 1:
 
 S1# show interface vlan 1 
 
