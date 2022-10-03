@@ -63,9 +63,11 @@ S1# show interface vlan 1
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_17_26-PC0.png)
 
 Изучите флеш-память.
-Выполните одну из следующих команд, чтобы изучить содержимое флеш-каталога.
-Switch# show flash 
-Switch# dir flash: 
+
+S1# show flash 
+
+S1# dir flash: 
+
 В конце имени файла указано расширение, например .bin. Каталоги не имеют расширения файла.
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_20_07-PC0.png)
