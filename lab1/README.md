@@ -65,11 +65,14 @@ S1# show interface vlan 1
 Switch# show flash 
 Switch# dir flash: 
 В конце имени файла указано расширение, например .bin. Каталоги не имеют расширения файла.
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_20_07-PC0.png)
+
 Вопрос:
 Какое имя присвоено образу Cisco IOS?
 2960-lanbasek9-mz.150-2.SE4.bin
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_20_07-PC0.png)
+
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_17_26-PC0.png)
 
