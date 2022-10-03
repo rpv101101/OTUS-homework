@@ -76,6 +76,7 @@ S1# dir flash:
 Какое имя присвоено образу Cisco IOS?
 2960-lanbasek9-mz.150-2.SE4.bin
 
+Конфигурация коммутатора:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_13_38-PC0.png)
 
