@@ -50,5 +50,27 @@ interface GigabitEthernet0/2
 
 ⦁	Протестируйте возможности удаленного управления с помощью Telnet.
 
+Проверьте параметры VLAN 1.
+S1# show interface vlan 1 
+
+Какова полоса пропускания этого интерфейса? - BW 100000 Kbit
+В каком состоянии находится VLAN 1?
+Включен - Vlan1 is up
+В каком состоянии находится канальный протокол?
+Включен -  line protocol is up
+
+
+Изучите флеш-память.
+Выполните одну из следующих команд, чтобы изучить содержимое флеш-каталога.
+Switch# show flash 
+Switch# dir flash: 
+В конце имени файла указано расширение, например .bin. Каталоги не имеют расширения файла.
+Вопрос:
+Какое имя присвоено образу Cisco IOS?
+2960-lanbasek9-mz.150-2.SE4.bin
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_20_07-PC0.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2016_17_26-PC0.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab1/img/2022-10-01%2015_37_11-Cisco%20Packet%20Tracer%20-%20C__Users_user_Documents_OTUS_project1_ping.pkt.png)
