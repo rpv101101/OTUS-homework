@@ -34,3 +34,10 @@ MAC-адрес компьютера PC-A: 0002.16E1.4123
 
 MAC-адрес компьютера PC-B: 0060.2FC6.2186
 
+Результат выполнения команды show interface F0/1 через консоль при подключении к каждому коммутатору:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_03_20-PC-A.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_03_35-PC-B.png)
+
+
