@@ -55,4 +55,10 @@ MAC-адрес компьютера PC-B: 0060.2FC6.2186
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_11_24-PC-B.png)
 
+После выполнения эхо-запросов на компьютеры и коммутаторы:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_14_37-PC-B.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_15_08-PC-B.png)
+
 
