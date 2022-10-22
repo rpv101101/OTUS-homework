@@ -41,3 +41,8 @@ MAC-адрес компьютера PC-B: 0060.2FC6.2186
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_03_35-PC-B.png)
 
 
+МАС-адрес коммутатора S1 Fast Ethernet 0/1: 00d0.d360.3701
+
+МАС-адрес коммутатора S2 Fast Ethernet 0/1: 0001.962d.a501
+
+
