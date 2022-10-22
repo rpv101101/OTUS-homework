@@ -24,7 +24,7 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_50_38-PC-A.png)
 
 ## Изучение таблицы МАС-адресов коммутатора
-Результат выполнения команды ipconfig /all в командной строке компьютеров PC-A и PC-B:
+Результат выполнения команды **ipconfig /all** в командной строке компьютеров PC-A и PC-B:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_01_43-PC-A.png)
 
@@ -34,7 +34,7 @@ MAC-адрес компьютера PC-A: 0002.16E1.4123
 
 MAC-адрес компьютера PC-B: 0060.2FC6.2186
 
-Результат выполнения команды show interface F0/1 через консоль при подключении к каждому коммутатору:
+Результат выполнения команды **show interface F0/1** через консоль при подключении к каждому коммутатору:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_03_20-PC-A.png)
 
