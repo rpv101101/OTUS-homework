@@ -4,6 +4,7 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-22%2019_27_17-Cisco%20Packet%20Tracer%20-%20C__Users_user_Desktop_OTUS_lab2_lab2.pkt.png)
 ## Инициализация и перезагрузка коммутаторов
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_37_22-PC-A.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21 17_37_44-PC-B.png)
 ## Настройка базовых параметров коммутаторов
 
 ## Изучение таблицы МАС-адресов коммутатора
