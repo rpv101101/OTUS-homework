@@ -45,4 +45,14 @@ MAC-адрес компьютера PC-B: 0060.2FC6.2186
 
 МАС-адрес коммутатора S2 Fast Ethernet 0/1: 0001.962d.a501
 
+Результат выполнения команды **show mac address-table** 
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_06_02-PC-B.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_06_16-PC-A.png)
+
+Результат выполнения команды **clear mac address-table dynamic** 
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_11_24-PC-B.png)
+
 
