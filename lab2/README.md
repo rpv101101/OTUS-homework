@@ -6,6 +6,9 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_37_22-PC-A.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_37_44-PC-B.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_51_59-PC-A.png)
+
 ## Настройка базовых параметров коммутаторов
 
 ## Изучение таблицы МАС-адресов коммутатора
