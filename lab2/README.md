@@ -27,3 +27,4 @@
 Результат выполнения команды ipconfig /all в командной строке компьютеров PC-A и PC-B:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_01_43-PC-A.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_02_01-PC-B.png)
