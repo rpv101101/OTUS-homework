@@ -17,6 +17,11 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_54_08-PC-B.png)
 
+Задания:
+1) Назначьте cisco в качестве паролей консоли и VTY.
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_50_38-PC-A.png)
+3) Назначьте class в качестве пароля доступа к привилегированному режиму EXEC.
+
 
 
 
