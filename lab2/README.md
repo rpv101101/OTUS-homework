@@ -11,5 +11,7 @@
 
 ## Настройка базовых параметров коммутаторов
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_55_16-PC-A.png)
+
 ## Изучение таблицы МАС-адресов коммутатора
 
