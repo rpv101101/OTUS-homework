@@ -9,13 +9,15 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_51_59-PC-A.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_59_03-PC-A.png)
+
 ## Настройка базовых параметров коммутаторов
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_54_08-PC-B.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_55_16-PC-A.png)
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2017_59_03-PC-A.png)
+
 
 ## Изучение таблицы МАС-адресов коммутатора
 
