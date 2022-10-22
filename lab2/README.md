@@ -29,3 +29,8 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_01_43-PC-A.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab2/img/2022-10-21%2018_02_01-PC-B.png)
+
+MAC-адрес компьютера PC-A: 0002.16E1.4123
+
+MAC-адрес компьютера PC-B: 0060.2FC6.2186
+
