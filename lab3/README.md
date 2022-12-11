@@ -11,27 +11,27 @@
 •	Дополнительно: калькулятор IPv4-адресов
 ## Инструкции
 Заполните приведенные ниже таблицы, зная заданный IPv4-адрес, исходную и новую маску подсети.
-## Проблема 1:
+## Проблема 1
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/2_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_1.png)
 
-## Проблема 2:
+## Проблема 2
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/3_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_2.png)
 
-## Проблема 3:
+## Проблема 3
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/4_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_3.png)
 
-## Проблема 4:
+## Проблема 4
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/5_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_4.png)
 
-## Проблема 5:
+## Проблема 5
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/6_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_5.png)
 
-## Проблема 6:
+## Проблема 6
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/7_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_7.png)
 
