@@ -114,3 +114,46 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/33_S1.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/34_s2.png)
+
+Что произойдет, если G0/0/1 на R1 будет отключен?
+
+**f0/5 на S1 не будет отображаться 
+
+## Часть 4. Настройка маршрутизации между сетями VLAN
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_27_08-PC-B.png)
+
+В начале работы ошибочно был присвоен адрес для интерфейса G0/0/1, поэтому была получена такая ошибка:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_29_52-PC-B.png)
+
+Выполнена замена:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_31_13-PC-B.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_37_32-PC-B.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_38_21-PC-B.png)
+
+
+
+
+## Часть 5. Проверка работы маршрутизации между VLAN
+
+a.	Отправьте эхо-запрос с PC-A на шлюз по умолчанию.
+
+b.	Отправьте эхо-запрос с PC-A на PC-B.
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_42_53-PC-A.png)
+
+c.	Отправьте команду ping с компьютера PC-A на коммутатор S2.
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_43_35-PC-A.png)
+
+В окне командной строки на PC-B выполните команду tracert на адрес PC-A:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2016_44_00-PC-B.png)
+
+Какие промежуточные IP-адреса отображаются в результатах?
+
+**Адрес интерфейса G0/0/1.30 на R1 и адрес компьютера PC-A
