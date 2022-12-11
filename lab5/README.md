@@ -50,8 +50,14 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/11_generate_RSA.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/13_admin_password_setup.png)
 
 ## Часть 3. Настройка коммутатора для доступа по протоколу SSH
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/12_vty_setup.png.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/15_S1_setup.png)
+
 
 ## Часть 4. SSH через интерфейс командной строки (CLI) коммутатора
 
