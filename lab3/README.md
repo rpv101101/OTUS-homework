@@ -12,7 +12,6 @@
 ## Инструкции
 Заполните приведенные ниже таблицы, зная заданный IPv4-адрес, исходную и новую маску подсети.
 ## Проблема 1:
-Дано:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/2_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_1.png)
 
