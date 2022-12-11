@@ -32,3 +32,14 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2014_39_13-PC-A.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2_R1_setup.png)
+
+Настройка компьютеров:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/3_PCA_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/4_PCA_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/5_PCB_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/6_PCB_setup.png)
