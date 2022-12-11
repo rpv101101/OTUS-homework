@@ -105,10 +105,12 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/29_s1.png)
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/30_s2.png)
 
-![alt text](
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/31_S2.png)
 
-![alt text](
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/32_s1.png)
 
-![alt text](
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/33_S1.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/34_s2.png)
