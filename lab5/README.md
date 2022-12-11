@@ -44,6 +44,8 @@
 
 Сначала настроил vty 0 4, после исправил на 0 15.
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/20_R1_enabling_ssh_and_telnet.png)
+
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/9_banner_setup.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/10_domain_setup.png)
@@ -57,6 +59,14 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/12_vty_setup.png.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/15_S1_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/16_S1_banner_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/17_S1_RSA_.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/18_S1_SSH_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/19_S1_vty_setup.png)
 
 
 ## Часть 4. SSH через интерфейс командной строки (CLI) коммутатора
