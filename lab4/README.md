@@ -32,36 +32,35 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/8_show_ipconfig.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/9_IPv6%20unicast-routing..png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/10_show_ipv6.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/11_show_ipv6.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/12_vlan1_S1.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/13_show_interface_vlan_1.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/14_PC-A.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/15_PC-B.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/16_PC-A.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/17-PC-B.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/2022-12-11%2017_02_09-PC-A.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/2022-12-11%2017_03_41-PC-A.png)
 
-![alt text]()
-
-
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/2022-12-11%2017_09_35-PC-B.png)
