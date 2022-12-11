@@ -54,6 +54,10 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/13_admin_password_setup.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/20_R1_enabling_ssh_and_telnet.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/21_SSH_test.png)
+
 ## Часть 3. Настройка коммутатора для доступа по протоколу SSH
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/12_vty_setup.png.png)
@@ -71,3 +75,17 @@
 
 ## Часть 4. SSH через интерфейс командной строки (CLI) коммутатора
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/22_SSH_QM.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/23_SSH_test2.png)
+
+
+## Вопросы для повторения
+
+Какие версии протокола SSH поддерживаются при использовании интерфейса командной строки?
+
+SSH1 и SSH2
+
+Как предоставить доступ к сетевому устройству нескольким пользователям, у каждого из которых есть собственное имя пользователя?
+
+Создать несколько пользователей с помощью команды username 
