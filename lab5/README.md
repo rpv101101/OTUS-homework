@@ -25,14 +25,6 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/5_show_ip_brief.png)
 
-Первоначальная настройка маршрутизатора R1:
-
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/6_R1_setup.png)
-
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/7_R1_setup2.png)
-
-Сначала настроил vty 0 4, после исправил на 0 15.
-
 Топология сети в CPT:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/2022-12-11%2014_09_33-Cisco%20Packet%20Tracer.png)
@@ -41,4 +33,25 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/8_R1_ping_test.png)
 
+
+## Часть 2. Настройка маршрутизатора для доступа по протоколу SSH
+
+Первоначальная настройка маршрутизатора R1:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/6_R1_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/7_R1_setup2.png)
+
+Сначала настроил vty 0 4, после исправил на 0 15.
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/9_banner_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/10_domain_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/11_generate_RSA.png)
+
+
+## Часть 3. Настройка коммутатора для доступа по протоколу SSH
+
+## Часть 4. SSH через интерфейс командной строки (CLI) коммутатора
 
