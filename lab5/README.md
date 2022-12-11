@@ -31,7 +31,14 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/7_R1_setup2.png)
 
+Сначала настроил vty 0 4, после исправил на 0 15.
 
 Топология сети в CPT:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/2022-12-11%2014_09_33-Cisco%20Packet%20Tracer.png)
+
+Проверка подключения:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/8_R1_ping_test.png)
+
+
