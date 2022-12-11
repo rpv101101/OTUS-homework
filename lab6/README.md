@@ -34,6 +34,8 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2_R1_setup.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/7_R1_setup2.png)
+
 Настройка компьютеров:
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/3_PCA_setup.png)
@@ -43,3 +45,20 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/5_PCB_setup.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/6_PCB_setup.png)
+
+Настройка S1 и S2:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/8_S1_setup1.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/9_S1_setup2.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/10_S1_setup3.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/11_S1_setup4.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/12_S1_setup5.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/13_S2_setup.png)
+
+
+
