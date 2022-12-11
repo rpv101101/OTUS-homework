@@ -92,3 +92,23 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/25_S2_vlan_info.png)
 
+## Часть 3. Конфигурация магистрального канала стандарта 802.1Q между коммутаторами
+
+Шаг 1. Вручную настройте магистральный интерфейс F0/1 на коммутаторах S1 и S2.
+Настройка статического транкинга на интерфейсе F0/1 для обоих коммутаторов:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/26_S1_F01.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/27_S2_F01.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/28_S1.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/29_s1.png)
+
+![alt text]()
+
+![alt text](
+
+![alt text](
+
+![alt text](
