@@ -82,3 +82,13 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/22_S2_999.png)
 
+Назначение используемых портов соответствующей VLAN:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/23_interface1.png)
+
+Проверка настройки VLAN на коммутаторах:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/24_S1_vlan_info.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/25_S2_vlan_info.png)
+
