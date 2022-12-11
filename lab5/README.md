@@ -13,6 +13,8 @@
 
 ## Часть 1. Настройка основных параметров устройства
 
+Настройка ПК PC-A и коммутатора S1:
+
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/1_%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_PCA_1.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/2_%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_PCA_2.png)
@@ -20,4 +22,12 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/3_conf_vlan_1.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/4_conf_def_gateway.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/5_show_ip_brief.png)
+
+Первоначальная настройка маршрутизатора R1:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/6_R1_setup.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab5/IMG/7_R1_setup2.png)
 
