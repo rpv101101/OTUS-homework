@@ -23,3 +23,6 @@
 5. Проверка, что маршрутизация между VLAN работает
 
 ## Часть 1. Создание сети и настройка основных параметров устройства
+
+Создание сеть согласно топологии:
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab6/IMG/2022-12-11%2014_36_55-Cisco%20Packet%20Tracer%20-%20C__Users_user_Documents_OTUS_lab6_6.pkt.png)
