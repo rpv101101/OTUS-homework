@@ -33,7 +33,7 @@
 
 ## Проблема 6
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/7_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_7.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/6upd.png)
 
 ## Вопрос для повторения
 Почему маска подсети так важна при анализе IPv4-адреса?
