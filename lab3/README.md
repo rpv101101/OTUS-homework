@@ -21,7 +21,7 @@
 
 ## Проблема 3
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/4_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_3.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab3/IMG/8_%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_3.png)
 
 ## Проблема 4
 
