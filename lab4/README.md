@@ -72,4 +72,4 @@ UPD. После настройки шлюзов по умолчанию связ
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/PCB2.png)
 
-![alt text]https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/PCBtr.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/PCBtr.png)
