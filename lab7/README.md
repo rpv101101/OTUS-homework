@@ -1,11 +1,11 @@
 # Развертывание коммутируемой сети с резервными каналами
 ## Топология
 
-![Топология](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/2022-12-20%2019_02_03-lab7.docx%20-%20Word.png)
+![Alt](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/2022-12-20%2019_02_03-lab7.docx%20-%20Word.png "Топология")
 
 ## Таблица адресации
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/2022-12-20%2019_02_14-lab7.docx%20-%20Word.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/2022-12-20%2019_02_14-lab7.docx%20-%20Word.png "Таблица адресации")
 
 ## Цели
 1. Создание сети и настройка основных параметров устройства
