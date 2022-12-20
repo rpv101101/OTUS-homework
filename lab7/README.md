@@ -27,6 +27,8 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/5_log.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/6_vlan_ip_add.png)
+
 Успешно ли выполняется эхо-запрос от коммутатора S1 на коммутатор S2? **Да**
 
 Успешно ли выполняется эхо-запрос от коммутатора S1 на коммутатор S3? **Да**
