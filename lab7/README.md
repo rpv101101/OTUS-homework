@@ -49,5 +49,9 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/11_S3.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/12_s3.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/13_S1_S.png)
+
 
 
