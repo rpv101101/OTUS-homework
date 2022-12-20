@@ -12,5 +12,31 @@
 2. Выбор корневого моста
 3. Наблюдение за процессом выбора протоколом STP порта, исходя из стоимости портов
 4. Наблюдение за процессом выбора протоколом STP порта, исходя из приоритета портов
+5. 
+## Создание сети и настройка основных параметров устройства
+
+Настройка базовых параметров коммутатора:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/1_s1_setup.png "Настройка коммутатора S1")
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/2_s2_setup.png  "Настройка коммутатора S2")
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/3_s3_setup.png "Настройка коммутатора S3")
+ 
+Успешно ли выполняется эхо-запрос от коммутатора S1 на коммутатор S2? **Да**
+
+Успешно ли выполняется эхо-запрос от коммутатора S1 на коммутатор S3? **Да**
+
+Успешно ли выполняется эхо-запрос от коммутатора S2 на коммутатор S3? **Да**
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/7_ping_test.png "Проверка связи")
+
+![alt text]()
+
+
+
+![alt text]()
+
+
 
 ![alt text]()
