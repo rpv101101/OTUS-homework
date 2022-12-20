@@ -53,5 +53,25 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/13_S1_S.png)
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/14_S2_S.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/15_S3_S.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/16_S3_ROOT.png)
+
+Какой коммутатор является корневым мостом? S3
+Почему этот коммутатор был выбран протоколом spanning-tree в качестве корневого моста?
+У этого коммутатора самый низкий Bridge ID (Приоритет + Vlan +  MAC-адрес) 
+Какие порты на коммутаторе являются корневыми портами?
+**S1 Fa0/4; S2 Fa0/2;**
+
+Какие порты на коммутаторе являются назначенными портами? 
+**S1 Fa0/2; S3 Fa0/2; S3 Fa0/4;**
+
+Какой порт отображается в качестве альтернативного и в настоящее время заблокирован? 
+**S2 Fa0/2;**
+
+Почему протокол spanning-tree выбрал этот порт в качестве невыделенного (заблокированного) порта?
+**Если коммутатор имеет несколько путей равной стоимости к корневому мосту, коммутатор определяет порт, используя самое низкое значение идентификатора моста-отправителя**
 
 
