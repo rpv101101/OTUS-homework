@@ -37,6 +37,17 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/7_ping_test.png "Проверка связи")
 
-![alt text]()
+Отключение всех портов на коммутаторах:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/8_ports_shutdown.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/9_ports_shutdown.png)
+
+Настройка всех подключенных портов в качестве транковых:
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/10_trunk.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/11_S3.png)
+
 
 
