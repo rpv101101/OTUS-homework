@@ -64,3 +64,10 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/2022-12-11%2017_03_41-PC-A.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/2022-12-11%2017_09_35-PC-B.png)
+
+
+UPD. После настройки шлюзов по умолчанию связь появилась: 
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/PCA2.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab4/IMG/PCB2.png)
