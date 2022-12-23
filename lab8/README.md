@@ -28,7 +28,7 @@
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/6_R1_sh_int.png)
 
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/7_R2_sh_int.png)
+
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/8_PCA_DHCP1.png)
 
