@@ -87,6 +87,15 @@
 
 Включите порты F0/1 и F0/3 на всех коммутаторах:
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/Error2.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/1_S1_1-4.png)
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/Error3.png)
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/2_S2_1-4.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/3_S3_1-4.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/4_S1.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/5_S1.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab7/IMG/final_scheme.png)
+
