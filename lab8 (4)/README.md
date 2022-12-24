@@ -117,6 +117,16 @@
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/26.png)
 ### Ручная настройка интерфейса S1 F0/5 в качестве транка 802.1Q
 
+>a.	Измените режим порта коммутатора, чтобы принудительно создать магистральный канал.
+>
+>b.	В рамках конфигурации транка  установите для native  VLAN значение 1000.
+>
+>c.	В качестве другой части конфигурации магистрали укажите, что VLAN 100, 200 и 1000 могут проходить по транку.
+>
+>d.	Сохраните текущую конфигурацию в файл загрузочной конфигурации.
+>
+>e.	Проверьте состояние транка.
+
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/27.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/28.png)
