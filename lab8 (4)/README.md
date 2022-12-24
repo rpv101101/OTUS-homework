@@ -16,18 +16,14 @@
 
 ### Создание схемы адресации
 
+
+### Создание сети согласно топологии
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/10_scheme.png)
-
-### Создание сети и настройка основных параметров устройств
-#### Настройка параметров коммутаторов S1 и S2
-
+### Базовая настройка коммутаторов и маршрутизаторов
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/4_S1.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/5_S2.png)
 
-#### Настройка параметров маршрутизаторов R1 и R2 
-
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/6_R1.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/6_R2.png)
-
