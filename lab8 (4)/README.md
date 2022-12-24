@@ -181,7 +181,8 @@
 ### Настройка R2 в качестве агента DHCP-ретрансляции для локальной сети на G0/0/1
 > a.	Настройте команду ip helper-address на G0/0/1, указав IP-адрес G0/0/0 R1.
 > b.	Сохраните конфигурацию.
-
+> 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/35.png)
 ### Попытка получить IP-адрес от DHCP на PC-B
 >a.	Из командной строки компьютера PC-B выполните команду ipconfig /all.
 >
@@ -192,5 +193,13 @@
 >d.	Выполните show ip dhcp binding для R1 для проверки назначений адресов в DHCP.
 >
 >e.	Выполните команду show ip dhcp server statistics для проверки сообщений DHCP.
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/36.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/37.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/38.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/39.png)
 
 
