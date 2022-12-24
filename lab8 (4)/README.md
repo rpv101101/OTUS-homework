@@ -148,4 +148,9 @@
 >
 >g.	Затем настройте второй пул DHCPv4, используя имя пула R2_Client_LAN и вычислите сеть, маршрутизатор по умолчанию, и используйте то же имя домена и время аренды, что и предыдущий пул DHCP.
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/29.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/30.png)
+
+
 
