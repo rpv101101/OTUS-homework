@@ -157,10 +157,14 @@
 ### Проверка конфигурации сервера DHCPv4
 >a.	Чтобы просмотреть сведения о пуле, выполните команду show ip dhcp pool.
 >
->b.	Выполните команду show ip dhcp bindings для проверки установленных назначений адресов DHCP.
+>b.	Выполните команду show ip dhcp binding для проверки установленных назначений адресов DHCP.
 >
 >c.	Выполните команду show ip dhcp server statistics для проверки сообщений DHCP.
->
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/31.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/32.png)
+
 ### Попытка получить IP-адрес от DHCP на PC-A
 
 >a.	Из командной строки компьютера PC-A выполните команду ipconfig /all.
@@ -168,3 +172,12 @@
 >b.	После завершения процесса обновления выполните команду ipconfig для просмотра новой информации об IP-адресе.
 >
 >c.	Проверьте подключение с помощью пинга IP-адреса интерфейса R0 G0/0/1.
+>
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/33.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/34.png)
+
+## Настройка и проверка DHCP-ретрансляции на R2
+### Настройка R2 в качестве агента DHCP-ретрансляции для локальной сети на G0/0/1
+
+### Попытка получить IP-адрес от DHCP на PC-B
