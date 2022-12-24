@@ -110,7 +110,14 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/25.png)
 
-![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/26.png)
+
+Почему интерфейс F0/5 указан в VLAN 1? **Настройка этого порта не выполнялась**
 
 ### Назначение VLAN соответствующим интерфейсам коммутатора
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/26.png)
+### Ручная настройка интерфейса S1 F0/5 в качестве транка 802.1Q
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/27.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/28.png)
 
