@@ -35,8 +35,18 @@
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/9_PCB_DHCP1.png)
 
 ## Проверка назначения адреса SLAAC от R1
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/1.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/2.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/3.png)
 
-## Настройка и проверка сервера DHCPv6 на R1
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/4.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/5.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/6.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/7.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/8.png)
