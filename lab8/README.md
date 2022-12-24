@@ -50,3 +50,5 @@
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/7.png)
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/8.png)
+
+ipv6 dhcp relay destination к сожалению, не работает в CPT. 
