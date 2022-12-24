@@ -13,4 +13,14 @@
 Часть 3. Настройка и проверка DHCP-ретрансляции на R2
 
 ## Создание сети и настройка основных параметров устройства
+
 ### Создание схемы адресации
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/4_S1.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/5_S2.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/6_R1.png)
+
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/6_R2.png)
+
