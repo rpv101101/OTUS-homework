@@ -150,6 +150,8 @@
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/29.png)
 
+Вопрос: мой маршрутизатор отказывается работать с lease - почему? 
+
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/30.png)
 
 
