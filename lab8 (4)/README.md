@@ -16,6 +16,10 @@
 
 ### Создание схемы адресации
 
+![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/10_scheme.png)
+
+### Создание сети и настройка основных параметров устройств
+
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/4_S1.png)
 
 ![alt text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8%20(4)/IMG/5_S2.png)
