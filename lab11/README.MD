@@ -108,8 +108,6 @@
 >
 >d.	Выполните команду show interfaces trunk для проверки портов магистрали, собственной VLAN и разрешенных VLAN через магистраль.
 
-
-
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_tr_setup1.png)
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_tr_setup.png)
@@ -124,4 +122,24 @@
 >c.	Используйте команду show interfaces trunk для проверки настроек транка.
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S1_tr.png)
+
+### Настройка маршрутизации
+#### Настройка маршрутизации между сетями VLAN на R1
+>a.	Активируйте интерфейс G0/0/1 на маршрутизаторе.
+>
+>b.	Настройте подинтерфейсы для каждой VLAN, как указано в таблице IP-адресации. Все подинтерфейсы используют инкапсуляцию 802.1Q. Убедитесь, что подинтерфейс для собственной VLAN не имеет назначенного IP-адреса. Включите описание для каждого подинтерфейса.
+>
+>c.	Настройте интерфейс Loopback 1 на R1 с адресацией из приведенной выше таблицы.
+>
+>d.	С помощью команды show ip interface brief проверьте конфигурацию подынтерфейса.
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_G0.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_1.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_2.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_3.png)
+
+#### Настройка интерфейса R2 g0/0/1 с использованием адреса из таблицы и маршрута по умолчанию с адресом следующего перехода 10.20.0.1
 
