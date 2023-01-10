@@ -129,8 +129,8 @@
 
 ### Настройка VLAN 333 с именем Native на S1 и S2
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_shv.png)
 
-
-
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_shv.png)
 ### Настройка VLAN 999 с именем ParkingLot на S1 и S2
 
