@@ -1,8 +1,8 @@
 # Конфигурация безопасности коммутатора 
 ## Топология
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/TOP.png)
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/TOP.png)
 ## Таблица адресации
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/TA.png)
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/TA.png)
 ## Цели
 ### Часть 1. Настройка основного сетевого устройства
 •	Создайте сеть.
@@ -99,4 +99,4 @@
 >
 >c.	Убедитесь, что IP-адресация и интерфейсы находятся в состоянии up / up (при необходимости устраните неполадки).
 
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_int.png)
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/R1_int.png)
