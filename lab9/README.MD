@@ -187,4 +187,10 @@
 >
 >Negotiation of Trunking: Off
 >
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_2.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_3.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_2.png)
+
 
