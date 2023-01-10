@@ -99,4 +99,4 @@
 >
 >c.	Убедитесь, что IP-адресация и интерфейсы находятся в состоянии up / up (при необходимости устраните неполадки).
 
-
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_int.png)
