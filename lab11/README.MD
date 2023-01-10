@@ -49,4 +49,12 @@
 >h.	Сохраните текущую конфигурацию в файл загрузочной конфигурации.
 
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_setup.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R2_setup.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S1_setup.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_setup.png)
+
 
