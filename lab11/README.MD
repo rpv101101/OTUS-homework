@@ -81,12 +81,14 @@
 >
 >b.	Настройте интерфейс управления и шлюз по умолчанию на каждом коммутаторе, используя информацию об IP-адресе в таблице адресации. 
 >
->c.	Назначьте все неиспользуемые порты коммутатора VLAN Parking Lot, настройте их для статического режима доступа и административно деактивируйте их. Примечание. 
->Команда interface range полезна для выполнения этой задачи с помощью необходимого количества команд. 
+>c.	Назначьте все неиспользуемые порты коммутатора VLAN Parking Lot, настройте их для статического режима доступа и административно деактивируйте их. 
+>Примечание. Команда interface range полезна для выполнения этой задачи с помощью необходимого количества команд. 
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S1_VLAN.png)
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_VLAN.png)
+
+
 
 
 ### Назначение сети VLAN соответствующим интерфейсам коммутатора
@@ -94,4 +96,6 @@
 >
 >b.	Выполните команду show vlan brief, чтобы убедиться, что сети VLAN назначены правильным интерфейсам.
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S1_VLAN_c.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_VLAN_c.png)
