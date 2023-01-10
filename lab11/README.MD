@@ -18,6 +18,7 @@
 > Создайте сеть согласно топологии.
 > 
 > Подключите устройства, как показано в топологии, и подсоедините необходимые кабели.
+
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/PC-A_1.png)
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/PC-A_2.png)
