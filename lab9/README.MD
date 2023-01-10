@@ -114,13 +114,23 @@
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_shr.png)
 
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_defg.png)
-
 ## Настройка сетей VLAN на коммутаторах
 ### Конфигурация VLAN 10
 > Добавьте VLAN 10 на S1 и S2 и назовите VLAN - Management.
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_defg.png)
+
 ### Конфигурация SVI для VLAN 10
 > Настройте IP-адрес в соответствии с таблицей адресации для SVI для VLAN 10 на S1 и S2. Включите интерфейсы SVI и предоставьте описание для интерфейса.
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_1.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_1.png)
+
+### Настройка VLAN 333 с именем Native на S1 и S2
+
+
+
+
+### Настройка VLAN 999 с именем ParkingLot на S1 и S2
 
