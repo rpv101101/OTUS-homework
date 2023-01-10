@@ -114,6 +114,8 @@
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_shr.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_defg.png)
+
 ## Настройка сетей VLAN на коммутаторах
 ### Конфигурация VLAN 10
 > Добавьте VLAN 10 на S1 и S2 и назовите VLAN - Management.
