@@ -110,10 +110,18 @@
 
 
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_tr_setup1.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_tr_setup.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S2_sh_tr.png)
+
 #### Ручная настройка магистрального интерфейса f0/5 на комммутаторе S1
 >a.	Настройте интерфейс S1 F0/5 с теми же параметрами транка, что и F0/1. Это транк до маршрутизатора.
 >
 >b.	Сохраните текущую конфигурацию в файл загрузочной конфигурации.
 >
 >c.	Используйте команду show interfaces trunk для проверки настроек транка.
->
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/S1_tr.png)
+
