@@ -127,10 +127,49 @@
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_1.png)
 
-### Настройка VLAN 333 с именем Native на S1 и S2
+### Настройка VLAN 333 с именем Native на S1 и S2, настройка VLAN 999 с именем ParkingLot на S1 и S2
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_shv.png)
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_shv.png)
-### Настройка VLAN 999 с именем ParkingLot на S1 и S2
+
+## Настройки безопасности коммутатора
+### Релизация магистральных соединений 802.1Q
+>a.	Настройте все магистральные порты Fa0/1 на обоих коммутаторах для использования VLAN 333 в качестве native VLAN.
+>b.	Убедитесь, что режим транкинга успешно настроен на всех коммутаторах.
+>S1# show interface trunk
+>
+>Port Mode Encapsulation Status Native vlan
+>Fa0/1 on 802.1q trunking 333
+>
+>Port Vlans allowed on trunk
+>Fa0/1 1-4094
+>
+>Port Vlans allowed and active in management domain
+>Fa0/1 1,10,333,999
+>
+>Port Vlans in spanning tree forwarding state and not pruned
+>Fa0/1 1,10,333,999
+>
+>S2# show interface trunk
+>
+>Port Mode Encapsulation Status Native vlan
+>Fa0/1 on 802.1q trunking 333
+>
+>Port Vlans allowed on trunk
+>Fa0/1 1-4094
+>
+>Port Vlans allowed and active in management domain
+>Fa0/1 1,10,333,999
+>
+>Port Vlans in spanning tree forwarding state and not pruned
+>Fa0/1 1,10,333,999
+>c.	Отключить согласование DTP F0/1 на S1 и S2. 
+>d.	Проверьте с помощью команды show interfaces.
+>S1# show interfaces f0/1 switchport | include Negotiation
+>Negotiation of Trunking: Off
+>
+>S1# show interfaces f0/1 switchport | include Negotiation
+>Negotiation of Trunking: Off
+>
 
