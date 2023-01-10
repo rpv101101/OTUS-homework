@@ -141,5 +141,8 @@
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_3.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_4.png)
+
 #### Настройка интерфейса R2 g0/0/1 с использованием адреса из таблицы и маршрута по умолчанию с адресом следующего перехода 10.20.0.1
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R2_1.png)
