@@ -29,4 +29,3 @@
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/scheme.png)
 
-
