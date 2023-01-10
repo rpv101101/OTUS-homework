@@ -158,3 +158,5 @@
 >d.	Настройте первые пять линий VTY на каждом устройстве, чтобы поддерживать только SSH-соединения и с локальной аутентификацией.
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab11/IMG/R1_vty.png)
+
+
