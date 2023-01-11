@@ -224,7 +224,7 @@
 
 При просмотре свойств интерфейсов видно описание, а в show interfaces status - нет: 
 
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_11_2.png)
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_11_2.png)
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_4.png)
 
