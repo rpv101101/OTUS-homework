@@ -324,7 +324,22 @@ PC-B не получает адрес через DHCP, это из-за проб
 >c.	Убедитесь, что защита BPDU и PortFast включены на соответствующих портах.
 >
 >S1# show spanning-tree interface f0/6 detail
->
 
-### Проверьте наличие сквозного ⁪подключения.
->Проверьте PING свзяь между всеми устройствами в таблице IP-адресации. В случае сбоя проверки связи может потребоваться отключить брандмауэр на хостах.
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_12.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_12.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_13.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_13.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_14.png)
+
+
+
+
+
+
+
+
