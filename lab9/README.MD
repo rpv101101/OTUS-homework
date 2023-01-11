@@ -285,5 +285,15 @@
 >f.	Проверка функции безопасности портов на S2 F0/18.
 >
 >S2# show port-security interface f0/18
+>
+>S2# show port-security address
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_6.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_7.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_6.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_7.png)
+
+### Реализовация безопасности DHCP snooping
