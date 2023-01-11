@@ -206,43 +206,19 @@
 >a.	На S1 настройте F0/5 и F0/6 в качестве портов доступа и свяжите их с VLAN 10.
 >
 >b.	На S2 настройте порт доступа Fa0/18 и свяжите его с VLAN 10.
+>
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_11_1.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_11_1.png)
 
 ### Безопасность неиспользуемых портов коммутатора
 
 >a.	На S1 и S2 переместите неиспользуемые порты из VLAN 1 в VLAN 999 и отключите неиспользуемые порты.
+>
 >b.	Убедитесь, что неиспользуемые порты отключены и связаны с VLAN 999, введя команду  show.
 >S1# show interfaces status
 >
->Port Name Status Vlan Duplex Speed Type
->Fa0/1 Link to S2 connected trunk a-full a-100 10/100BaseTX
->Fa0/2 disabled 999 auto auto 10/100BaseTX
->Fa0/3 disabled 999 auto auto 10/100BaseTX
->Fa0/4 disabled 999 auto auto 10/100BaseTX
->Fa0/5 Link to R1 connected 10 a-full a-100 10/100BaseTX
->Fa0/6 Link to PC-A connected 10 a-full a-100 10/100BaseTX
->Fa0/7 disabled 999 auto auto 10/100BaseTX
->Fa0/8 disabled 999 auto auto 10/100BaseTX
->Fa0/9 disabled 999 auto auto 10/100BaseTX
->Fa0/10 disabled 999 auto auto 10/100BaseTX
-><output omitted>
 >S2# show interfaces status
 >
->Port Name Status Vlan Duplex Speed Type
->Fa0/1 Link to S1 connected trunk a-full a-100 10/100BaseTX
->Fa0/2 disabled 999 auto auto 10/100BaseTX
->Fa0/3 disabled 999 auto auto 10/100BaseTX
-><output omitted>
->Fa0/14 disabled 999 auto auto 10/100BaseTX
->Fa0/15 disabled 999 auto auto 10/100BaseTX
->Fa0/16 disabled 999 auto auto 10/100BaseTX
->Fa0/17 disabled 999 auto auto 10/100BaseTX
->Fa0/18 Link to PC-B connected 10 a-full a-100 10/100BaseTX
->Fa0/19 disabled 999 auto auto 10/100BaseTX
->Fa0/20 disabled 999 auto auto 10/100BaseTX
->Fa0/21 disabled 999 auto auto 10/100BaseTX
->Fa0/22 disabled 999 auto auto 10/100BaseTX
->Fa0/23 disabled 999 auto auto 10/100BaseTX
->Fa0/24 disabled 999 auto auto 10/100BaseTX
->Gi0/1 disabled 999 auto auto 10/100/1000BaseTX
->Gi0/2 disabled 999 auto auto 10/100/1000BaseTX
->
+
+
