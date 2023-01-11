@@ -297,3 +297,18 @@
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_7.png)
 
 ### Реализовация безопасности DHCP snooping
+>a.	На S2 включите DHCP snooping и настройте DHCP snooping во VLAN 10.
+>
+>b.	Настройте магистральные порты на S2 как доверенные порты.
+>
+>c.	Ограничьте ненадежный порт Fa0/18 на S2 пятью DHCP-пакетами в секунду.
+>
+>d.	Проверка DHCP Snooping на S2.
+>
+>S2# show ip dhcp snooping
+
+PC-B не получает адрес через DHCP, это из-за проблем ip dhcp relay в CPT?
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_8.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S2_9.png)
