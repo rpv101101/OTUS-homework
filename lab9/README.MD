@@ -240,6 +240,12 @@
 
 > a.	На S1, введите команду show port-security interface f0/6  для отображения настроек по умолчанию безопасности порта для интерфейса F0/6. Запишите свои ответы ниже.
 
-| A | B |
-| A | B |
-
+| Функция  | Настройка по умолчанию |
+| ------------- | ------------- |
+| Защита портов  | Content Cell  |
+| Максимальное количество записей MAC-адресов  | Content Cell  |
+| Режим проверки на нарушение безопасности  | Content Cell  |
+| Aging Time  | Content Cell  |
+| Aging Type  | Content Cell  |
+| Secure Static Address Aging | Content Cell  |
+| Sticky MAC Address | Content Cell  |
