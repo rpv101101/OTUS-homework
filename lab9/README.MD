@@ -249,3 +249,26 @@
 | Aging Type  | Absolute |
 | Secure Static Address Aging | Disabled  |
 | Sticky MAC Address | 0 |
+
+>b.	На S1 включите защиту порта на F0 / 6 со следующими настройками:
+>
+>o	Максимальное количество записей MAC-адресов: 3
+>
+>o	Режим безопасности: restrict
+>
+>o	Aging time: 60 мин.
+>
+>o	Aging type: неактивный
+
+>c.	Verify port security on S1 F0/6.
+>
+>S1# show port-security interface f0/6
+>
+
+Не работает команда 
+>switchport port-security aging type inactivity
+
+я неправ или проделки CPT?
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab9/IMG/S1_CPT.png)
+
