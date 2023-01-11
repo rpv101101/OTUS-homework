@@ -242,10 +242,10 @@
 
 | Функция  | Настройка по умолчанию |
 | ------------- | ------------- |
-| Защита портов  | Content Cell  |
-| Максимальное количество записей MAC-адресов  | Content Cell  |
-| Режим проверки на нарушение безопасности  | Content Cell  |
-| Aging Time  | Content Cell  |
-| Aging Type  | Content Cell  |
-| Secure Static Address Aging | Content Cell  |
-| Sticky MAC Address | Content Cell  |
+| Защита портов  | Disabled  |
+| Максимальное количество записей MAC-адресов  | 1  |
+| Режим проверки на нарушение безопасности  | Shutdown  |
+| Aging Time  | 0 минут  |
+| Aging Type  | Absolute |
+| Secure Static Address Aging | Disabled  |
+| Sticky MAC Address | 0 |
