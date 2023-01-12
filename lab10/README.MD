@@ -98,4 +98,10 @@
 >
 Тип - Broadcast, но Priority 1 и Hello 10, Dead 40, Wait 40 - подскажите, что я делаю не так?
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/7.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/8.png)
+
+На R2 команда 
+>show ip route ospf
+не выдаёт результата. 
