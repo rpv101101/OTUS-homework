@@ -67,3 +67,8 @@
 >
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/R1_s.png)
 
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/R2_s.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/R1_s1.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/R2_s1.png)
