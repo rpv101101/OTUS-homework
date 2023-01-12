@@ -106,4 +106,5 @@
 >show ip route ospf
 >
 не выдаёт результата. 
+
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/9.png)
