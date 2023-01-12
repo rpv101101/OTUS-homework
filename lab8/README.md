@@ -39,7 +39,7 @@
 
 ipv6 dhcp relay destination к сожалению, не работает в CPT. 
 
-===============================================================================================================
+=================================================================
 ## Попытка №2
 >Поэтому предлагаю Вам такую схему: реализуйте dhcp с сохранением состояния сразу на R2 - обойдемся без ретрансляции. И не забудьте поправить dhcp без сохранения состояния, а то ipv6 адреса у узла нет.
 >
@@ -61,14 +61,6 @@ ipv6 dhcp relay destination к сожалению, не работает в CPT.
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/8.png)
 
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/9.png)
 
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/10.png)
-
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/11.png)
-
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/12.png)
-
-![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab8/IMG/13.png)
 
 
