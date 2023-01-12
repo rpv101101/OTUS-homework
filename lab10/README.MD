@@ -72,3 +72,13 @@
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/R1_s1.png)
 
 ![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/R2_s2.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/2.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/3.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/4.png)
+
+![alt-text](https://raw.githubusercontent.com/rpv101101/OTUS-homework/main/lab10/IMG/5.png)
+
+### Убедитесь, что оптимизация OSPFv2 реализовалась
